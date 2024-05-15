@@ -17,11 +17,12 @@ public class Main {
         //Methoden von Character nutzen
         character1.talk();
         character1.talk("... und heiße Luca");
-
     }
+
 
     public static void main(String[] args) {
         new Main();
+
     }
 
 }
